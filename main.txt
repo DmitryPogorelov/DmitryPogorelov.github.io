@@ -6,3 +6,4 @@ This is change from 12.11.2020
 Line for remote repository
 This line from remote server. 07.12.2020
 iss22-branch
+master
